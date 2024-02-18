@@ -12,12 +12,12 @@ export const Hero = () => {
           Welcome to my portfolio!<br />
           I'm a full-stack developer.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:dai77yama@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
       <img
-        src={getImageUrl("hero/heroImage.png")}
+        src={getImageUrl("hero/earth.png")}
         alt="Hero image of me"
         className={styles.heroImg}
       />
