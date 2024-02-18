@@ -1,0 +1,26 @@
+[
+  {
+    "title": "EnglishMate",
+    "imageSrc": "projects/englishmate.png",
+    "description": "This is a web app to learn English easily and naturally",
+    "skills": ["Django", "Tailwind","PostgreSQL","Fly.io"],
+    "demo": "https://englishmate.fly.dev/",
+    "source": "https://github.com/Daichi-11/EnglishMate"
+  },
+  {
+    "title": "Coming soon..",
+    "imageSrc": "projects/project.png",
+    "description": "Coming soon..",
+    "skills": [],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Coming soon..",
+    "imageSrc": "projects/project.png",
+    "description": "Coming soon..",
+    "skills": [],
+    "demo": "",
+    "source": ""
+  }
+]
